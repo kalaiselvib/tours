@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kalaiselvib/tours/static/css/main.92310ebd.css",
-    "main.js": "/kalaiselvib/tours/static/js/main.0d7e0319.js",
-    "static/media/tourban.jpg": "/kalaiselvib/tours/static/media/tourban.5c96e4c06d8725a692f2.jpg",
-    "static/media/logo.png": "/kalaiselvib/tours/static/media/logo.7bcf1c7c0a6e003fdd9e.png",
-    "static/media/homeban.png": "/kalaiselvib/tours/static/media/homeban.183a7641ab180fca566a.png",
-    "index.html": "/kalaiselvib/tours/index.html",
-    "main.92310ebd.css.map": "/kalaiselvib/tours/static/css/main.92310ebd.css.map",
-    "main.0d7e0319.js.map": "/kalaiselvib/tours/static/js/main.0d7e0319.js.map"
+    "main.css": "/tours/static/css/main.a1b5ac92.css",
+    "main.js": "/tours/static/js/main.d65048dd.js",
+    "static/media/tourban.jpg": "/tours/static/media/tourban.5c96e4c06d8725a692f2.jpg",
+    "static/media/logo.png": "/tours/static/media/logo.7bcf1c7c0a6e003fdd9e.png",
+    "static/media/homeban.png": "/tours/static/media/homeban.183a7641ab180fca566a.png",
+    "index.html": "/tours/index.html",
+    "main.a1b5ac92.css.map": "/tours/static/css/main.a1b5ac92.css.map",
+    "main.d65048dd.js.map": "/tours/static/js/main.d65048dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.92310ebd.css",
-    "static/js/main.0d7e0319.js"
+    "static/css/main.a1b5ac92.css",
+    "static/js/main.d65048dd.js"
   ]
 }
